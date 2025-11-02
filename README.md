@@ -70,4 +70,4 @@ APIs_Build_connect_web/
 
 ## 👨‍💻 Author
 - Sudhakar Govindasamy  
-- [LinkedIn Profile](www.linkedin.com/in/sudhakargovindasamy) | [GitHub Profile](https://github.com/sudhakargovindasamy)
+- [LinkedIn Profile](https://www.linkedin.com/in/sudhakargovindasamy) | [GitHub Profile](https://github.com/sudhakargovindasamy)
