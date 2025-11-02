@@ -1,13 +1,20 @@
 {
   "name": "apis_build_connect_web",
   "version": "1.0.0",
-  "description": "",
+  "description": "A RESTful API built with Express and MongoDB for managing notes. Supports CRUD operations with Mongoose and dotenv configuration.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "express",
+    "mongoose",
+    "api",
+    "nodejs",
+    "crud"
+  ],
+  "author": "Sudhakar G",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
@@ -16,5 +23,7 @@
     "express": "^5.1.0",
     "mongoose": "^8.19.2"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
